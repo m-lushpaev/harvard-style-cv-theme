@@ -1,18 +1,18 @@
-title: "Your Name" # Your full name (large, bold, centered)
-email: "your@email.com" # Your email address
-phone: "(123) 456-7890" # Your phone number (optional)
-address: "123 Main St, City, Country" # Your address (optional)
-website: "https://yourwebsite.com" # Your website (optional)
-department: "Your Department, University, City, Country" # Department/affiliation (optional)
-affiliation: "Optional: Additional affiliation or department" # Second affiliation (optional)
-linkedin: yourprofile
-twitter: yourprofile
-github: yourprofile
-telegram: yourtelegramusername
+title: "Maksim Lushpaev" # Your full name (large, bold, centered)
+email: "me@lushpaev.ru" # Your email address
+phone: "+79214041065" # Your phone number (optional)
+address: "St.Petersburg, Russia" # Your address (optional)
+website: "cv.lushpaev.ru" # Your website (optional)
+#department: "Your Department, University, City, Country" # Department/affiliation (optional)
+#affiliation: "Optional: Additional affiliation or department" # Second affiliation (optional)
+#linkedin: yourprofile
+#twitter: yourprofile
+#github: yourprofile
+telegram: @dvplm
 leetcode: yourleetcodeusername
-description: "Harvard‑style CV • Example" # Site description (for SEO)
+description: "CISO | InfoSec Manager" # Site description (for SEO)
 baseurl: "" # GitHub Pages baseurl (leave blank for user pages)
-url: "https://yourusername.github.io" # Your GitHub Pages URL
+#url: "https://yourusername.github.io" # Your GitHub Pages URL
 plugins:
   - jekyll-seo-tag
 markdown: kramdown
