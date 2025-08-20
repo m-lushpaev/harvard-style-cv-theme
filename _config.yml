@@ -8,11 +8,11 @@ website: "cv.lushpaev.ru" # Your website (optional)
 #linkedin: yourprofile
 #twitter: yourprofile
 #github: yourprofile
-telegram: @dvplm
+telegram: dvplm
 leetcode: yourleetcodeusername
 description: "CISO | InfoSec Manager" # Site description (for SEO)
 baseurl: "" # GitHub Pages baseurl (leave blank for user pages)
-#url: "https://yourusername.github.io" # Your GitHub Pages URL
+url: "https://m-lushpaev.github.io" # Your GitHub Pages URL
 plugins:
   - jekyll-seo-tag
 markdown: kramdown
